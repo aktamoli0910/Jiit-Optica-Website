@@ -1,2 +1,3 @@
 # jiitopticawebsite
-New website for jiit optica chapter.
+Website for jiit optica chapter.
+Check it out at: https://www.jiitopticachapter.com/
