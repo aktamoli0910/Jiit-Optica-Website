@@ -1,1 +1,1 @@
-# Jiit-Optica-wesite
+# Jiit-Optica-website
