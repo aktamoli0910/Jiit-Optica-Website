@@ -1,1 +1,2 @@
-# Jiit-Optica-website
+# jiitopticawebsite
+New website for jiit optica chapter.
